@@ -76,8 +76,5 @@ a{
   transition-duration: 0.5s;
   /*или transition: background-color 1s;*/
 }
-@media all and (orientation:landscape){
-  body{
-    background: red;
-  }
+
 }
